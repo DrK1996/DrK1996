@@ -6,10 +6,10 @@ I build web applications, backend systems, and AI-powered tools with a focus on 
 
 ### 🔧 What I Work With
 
-* **Backend:** Python, Django, Django REST Framework, FastAPI
+* **Backend:** Python, Django, Django REST Framework, REST APIs, FastAPI, Celery
 * **Frontend:** NextJs, TypeScript, Tailwind CSS
 * **Databases:** PostgreSQL, MongoDB, Redis
-* **Infrastructure:** Docker, Docker Compose, Linux, AWS
+* **Infrastructure:** Docker, Docker Compose, Nginx, Linux, AWS
 * **AI:** LLMs, RAG, LangChain, LangGraph, AI orchestration
 
 ### 🚀 Currently Building
