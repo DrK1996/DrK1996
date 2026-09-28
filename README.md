@@ -1,6 +1,6 @@
 # Hi, I'm DrK 👋
 
-**Python Backend & Full-Stack Developer | AI Engineering**
+# Python Backend & Full-Stack Developer | AI Engineering
 
 I build web applications, backend systems, and AI-powered tools with a focus on **Python, APIs, system design, and practical software engineering**.
 
@@ -32,10 +32,10 @@ My goal is to use real projects as a way to **learn faster, solve real problems,
 
 Open to **freelance projects, collaborations, and software engineering opportunities** where I can build useful systems and continue growing as an engineer.
 
-👋 Let's Connect
+### 👋 Let's Connect
 
 Got a project idea, want to collaborate, or just want to talk tech? Feel free to reach out!
 
-📧 Email: (mailto:donal.raphel.dev@gmail.com)
-💼 LinkedIn: Connect with me (https://www.linkedin.com/in/donal-raphel-018216280/)
-💬 Discord: Say hi on Discord (https://discordapp.com/users/469042385402331136)
+- 📧 [Email me](mailto:donal.raphel.dev@gmail.com)
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/donal-raphel-018216280/)
+- 💬 [Say hi on Discord](https://discord.com/users/469042385402331136)
